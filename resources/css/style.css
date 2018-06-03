@@ -10,8 +10,15 @@ h1   {
   background-image: url("../../resources/images/the-flatiron-building.png");
   color: White;
 }
-.header a {
+a {
   color: White;
   font-weight: normal;
   font-size: 18px;
+}
+.footer {
+  background-color: dimgray;
+  color: White
+}
+.footer {
+  font-size: 11px;
 }
