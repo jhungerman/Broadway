@@ -10,6 +10,16 @@ h1   {
   background-image: url("../../resources/images/the-flatiron-building.png");
   color: White;
 }
+h2  {
+  font-size: 32px;
+}
+h3  {
+  font-size: 23px;
+}
+p {
+  font-size: 14px;
+  font-weight: normal;
+}
 a {
   color: White;
   font-weight: normal;
